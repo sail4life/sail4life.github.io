@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Università degli Studi di Siena
 
-* Prof. Monica Bianchini (PA, DIISM)
+* Prof. Monica Bianchini (PA, DIISM) - Responsabile scientifico
 * Prof. Moreno Falaschi (PO, DIISM)
 * Prof. Marco Gori (PO, DIISM)
 * Prof. Alessandra Renieri (PO, DBM)
@@ -15,7 +15,7 @@ redirect_from:
 * Prof. Franco Scarselli (PA, DIISM)
 * Prof. Ottavia Spiga (PA, DBCF)
 * Dr. Sara Brunetti (Professore Aggiunto, DIISM)
-* Ph.D. Paolo Andreini (Assegnista di ricerca, DIISM)
+* Ph.D. Paolo Andreini (Assegnista di ricerca, DIISM) - Responsabile operativo
 * Ph.D. Simone Bonechi (RTDA, DISPOC)
 * Ph.D. Giovanna Dimitri (Assegnista di ricerca, DIISM)
 

@@ -17,6 +17,9 @@ main:
     
   - title: "Persone"
     url: /persone/
-    
+  
+  - title: "Riferimenti"
+    url: /riferimenti/
+
   # - title: "Guide"
   #   url: /markdown/
