@@ -1,0 +1,16 @@
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230116-23092-izks51.rb extconf.rb
+creating Makefile
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20230116-23092-5iq8v9

@@ -1,0 +1,17 @@
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230116-23092-5e9ego.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /media/paolo/7DC9CA81197F09A8/DISCO_NEW/sail4life/site/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230116-23092-9gbt59/racc
